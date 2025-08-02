@@ -110,8 +110,8 @@ Stage 5: End-to-End Fine-tuning
 
 ```bash
 # Clone the repository
-git clone [repository-url]
-cd hyperspectral-quality-prediction
+git clone https://github.com/hsitomato42/HSI_Tomato
+cd HSI_Tomato
 
 # Create conda environment
 conda create -n hsi-quality python=3.8
@@ -156,7 +156,7 @@ python src/main_dl_algorithms.py --model ambct --hdfs --epochs 100
 ## 📁 Project Structure
 
 ```
-hyperspectral-quality-prediction/
+HSI_Tomato/
 ├── src/
 │   ├── config/              # Configuration files
 │   ├── models/              # DL model architectures

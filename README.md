@@ -9,7 +9,6 @@
 [![Dataset](https://img.shields.io/badge/Dataset-1.7k%20Samples-orange.svg)](#dataset)
 
 <h3>🏆 State-of-the-Art Hyperspectral Imaging Framework for Agricultural Quality Assessment</h3>
-<h4>Accepted at WACV 2026 Applications Track</h4>
 
 </div>
 
